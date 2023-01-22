@@ -1,0 +1,29 @@
+body {
+    background-color: goldenrod;
+    margin: 20px;
+    box-sizing: border-box;
+    color: #2b2839;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.mypic {
+    width: 150px;
+    border: 1px dotted blue;
+    /* float: left; */
+}
+
+.card {
+    /* border: 3px dotted blue; */
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    margin: 0px auto;
+    text-align: center;
+    background: #9ec5e9;
+    border-bottom: 10px solid #d8cefe;
+
+
+}
+
